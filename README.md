@@ -1,5 +1,5 @@
 # Sentiment Analysis (NLP) using LSTM and Naive BayesClassifier
-Sentiment analysis on women e-commerce store dataset
+Sentiment analysis on women e-commerce store dataset \
 Author: Claudia Słaboń
 
 Data comes from:
